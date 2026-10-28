@@ -1,0 +1,45 @@
+ [
+    {
+      "id": "1",
+      "img": "direct_the_water",
+      "title": "Styr vannet",
+      "description": "Gå rundt eiendommen din og se for deg hvor vannet vil renne og hvor det vil komme fra ved styrtregn. Vannet renner minste motstands vei, derfor kan små forskjeller i terrenget påvirke vannets retning.",
+      "procedure": "Tenk ut hvor det kan være lurt å lede vannet, f.eks. mot en bekk, skog, avløpsnett eller et sted som ikke påvirkes av mye vann. Du kan lede vannet ved hjelp av kantstein, forhøyet blomsterbed eller andre forhøyninger."
+    },
+    {
+      "id": "2",
+      "img": "vegetation",
+      "title": "Vegetasjon som motvirker styrtregn",
+      "description": "Riktig vegetasjon absorberer vannmengder. Busker, trær og stauder holder igjen og fordamper mye av vannet som faller ned ved styrtregn. I tillegg danner de gode habitat for fugler og insekter. Særlig trær tar opp mye vann. En bjørk kan bruke 300–500 liter vann i døgnet, midt på sommeren. Trær trenger en del jord, mens busk og særlig stauder kan plantes i grunnere jord. Vær obs på at røtter fra store trær kan skade nedgravde ledninger og murer. Busker og trær nær bygninger kan øke faren for at trevirke i bygninger råtner.",
+      "procedure": "Busker og trær bør plantes om høsten før det blir frost i bakken. Hvis man planter tidligere, bør man unngå tørre og varme perioder. I områder med mye leire bør jorda blandes med kompost for å forbedre jorda. <br>Det er viktig at nyplantinger vannes regelmessig ved tørrvær i de første sesongene. Trær og busker trenger vanligvis ikke vanning utover første sesong. <br><br>Info er hentet fra (og her kan du også finne mer info): <a href= \"https://www.drammen.kommune.no/globalassets/politikk-og-samfunn/planer/dokumenter/veileder-for-smaskala-overvannshandtering.pdf\">Veileder for småskala overvannshåndtering</a>."
+    },
+    {
+      "id": "3",
+      "img": "flower_ditch",
+      "title": "Regnbed",
+      "description": "Lag et regnbed som kan ta imot takvann fra små bygninger. Et regnbed er en beplantet grop i terrenget, som kan holde igjen overvann fra tette flater (som f.eks. tak eller asfalterte områder). Ved gode grunnforhold vil en del av vannet trekke ned i bakken og noe vil fordampe. Når jorda slipper vann lett gjennom, kan et lite regnbed ta unna nesten alt takvannet. Ved dårlige grunnforhold som ikke slipper vann så lett gjennom, bør regnbedet være større for å ha god effekt.",
+      "procedure": "Et regnbed bør ikke ta imot vann fra mer enn ca. 30 m² takareal (dobbelgarasje). Det bør ligge minst 2 meter fra hus (5 meter hvis huset har kjeller). Et naturlig sted er et lavt område i hagen der vann blir stående etter styrtregn, helst et sted som får noe sol.<br>Hvis regnbedet blir fullt og renner over, må vannet kunne ledes videre til et trygt sted, som avløp, bekk, skog eller annet areal som tåler vann.<br>Som tommelfingerregel trengs 2 m² regnbed per 10 m² takflate.<br><br>Slik sjekker du om jorda slipper gjennom vann:<br>1.Grav et hull på ca. 20 × 20 × 20 cm.<br>2.Fyll det med vann.<br>3.Hvis det står igjen vann etter én time = dårlig drenering.<br>4.Hvis vannet forsvinner innen én time, gjenta to ganger til.<br>5.Forsvinner vannet innen én time alle tre ganger = god drenering.<br><br>Oppbygning av regnbedet:<br><b>Ved dårlig drenering:</b> Grav 20–30 cm dypt og legg litt kompost eller humus i bunnen.<br><b>Ved god drenering:</b> Legg et 20–30 cm lag med 1/3 kompost og 2/3 sand for å hindre at jorda vaskes bort.<br>Hvis overløpet må gå i rør, bruk 110 mm rør med minst 3 % fall (3 cm per meter).<br><br>Info er hentet fra (og her kan du også finne mer info): <a href= \"https://www.drammen.kommune.no/globalassets/politikk-og-samfunn/planer/dokumenter/veileder-for-smaskala-overvannshandtering.pdf\">Veileder for småskala overvannshåndtering</a>."
+    },
+    {
+      "id": "4",
+      "img": "rain_barrel",
+      "title": "Regntønne til oppsamling av takvann",
+      "description": "En regntønne er et enkelt tiltak for å sørge for å samle opp vann ved styrtregn. Dette kan brukes til vanning av hagen når det er tørt. En regntønne er kun egnet for mindre bygninger (garasje, sykkelskur) som har utvendige taknedløp.",
+      "procedure": "Du trenger en tønne, en kobling til taknedløpet og et overløp. <br><br>1. Koble regntønna til et utvendig taknedløp, f.eks. ved å montere et såkalt fellbart utkast. Da kan en regulere om vannet skal ledes til tønnen eller videre nedover takrøret (f.eks. i vinterhalvåret). <br><br>2. Pass på å ha et overløp på tønna som leder overskuddsvann videre i en trygg retning, dersom tønna blir fylt opp. Overløpet bør ha minst samme rørdimensjon som taknedløpet og føres vanligvis til samme sted som taknedløpet går. <br><br>3. For uttak av oppsamlet vann, kan man montere en kran i nedre delen av selve tønna, bruke hevert eller sette ned en dykkpumpe som kobles til en hageslange, vannspreder eller dryppvanning.<br><br>Info er hentet fra (og her kan du også finne mer info): <a href= \"https://www.drammen.kommune.no/globalassets/politikk-og-samfunn/planer/dokumenter/veileder-for-smaskala-overvannshandtering.pdf\">Veileder for småskala overvannshåndtering</a>."
+    },
+    {
+      "id": "5",
+      "img": "_12019_north_pole_1632525",
+      "title": "Grønne tak (vegetasjon) på enkle bygg",
+      "description": "Å legge et grønt tak, dvs. etablere vegetasjon, på små, frittstående bygninger uten takrenne (som f.eks. et sykkelskur) kan gjøres på egenhånd. Grønne tak kan holde igjen noe av styrtregn og forsinke avrenning. Dersom det er mer vann enn det som holdes igjen, må en sørge for kontrollerte avrenningsveier.",
+      "procedure": "Sedummatter er egnet til grønne tak med lite helling. Mattene kjøpes på større hagebutikker eller fra spesialiserte leverandører. Den beste årstiden for etablering er om våren (april-mai) eller sensommeren (august-september). <br><br>1. Sjekk med en byggfaglig person om taket tåler en tilleggsbelastning fra vegetasjonslaget/sedummattene og vannet som holdes igjen. Det kan fort komme opp i 50 – 150 kg/m2.  <br>2. Rengjør taket for løv og annet organisk materiale. <br>3. Legg et drenslag av minst 3 cm med grus eller lettklinker. <br>4. Legg sedummattene over drenslaget, kant i kant. Sedummattene kan tilpasse ved å skjære dem til med tapetkniv. <br>5. Vann taket umiddelbart etter mattene er lagt, slik at de blir mettet med vann. Mattene bør vannes daglig i 2-3 uker fremover. <br><br>Info er hentet fra (og her kan du også finne mer info): <a href= \"https://www.drammen.kommune.no/globalassets/politikk-og-samfunn/planer/dokumenter/veileder-for-smaskala-overvannshandtering.pdf\">Veileder for småskala overvannshåndtering</a>."
+    },
+    {
+      "id": "6",
+      "img": "flood_dam",
+      "title": "Liten overvannsdam",
+      "description": "Lag en liten overvannsdam for takvann fra mindre bygg. Overvannsdammer holder igjen og forsinker avrenning av vann ved styrtregn. De har tett bunn og dermed et permanent vannspeil som gir gode forhold for vannplanter og vannorganismer.  En overvannsdam består av en dypvannssone med permanent vannspeil og en våtmarkssone som fylles ved regn. Vannet kommer inn i den ene enden og renner ut over en overløpsdemning i den andre, videre til en utløpsgrøft. Demningen forsinker avrenningen og gjør at vannstanden kan stige midlertidig ved mye nedbør.",
+      "procedure": "Bunnen tettes med membran eller (mer miljøvennlige) bentonittmatter, beskyttet av et tynt lag sand eller filterduk på undersiden.<br>Over mattene legges et lag med sand og grus.<br><br>Overløpsdemningen lages med en blanding av grus og sand.<br>Området rundt innløpet og overløpsdemningen bør forsterkes med steiner større enn 10 cm for å hindre erosjon.<br><br>Det permanente vannspeilet skal ligge ca. 20 cm lavere enn terrenget rundt.<br><br>Toppen av overløpsdemningen skal ligge minst 5 cm lavere enn terrengkanten, slik at vannet renner trygt ut ved for mye vann.<br><br>Utløpsgrøften bør være minst 30 cm bred og 10 cm dypere enn det permanente vannspeilet. Den kan lede vannet til en bekk, plen, infiltrasjonsgrøft eller overvannsnett.<br>Grøften bør ikke ha tett bunn, slik at noe vann kan trekke ned i bakken. <br><br>Info er hentet fra (og her kan du også finne mer info): <a href= \"https://www.drammen.kommune.no/globalassets/politikk-og-samfunn/planer/dokumenter/veileder-for-smaskala-overvannshandtering.pdf\">Veileder for småskala overvannshåndtering</a>."
+    }
+  ]
+

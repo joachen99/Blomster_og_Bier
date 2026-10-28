@@ -1,0 +1,29 @@
+Use case 0 (inkludert i Use case 2 og 3): Velg lokasjon
+1.	Brukeren åpner kartskjermen
+2.	Brukeren velger et sted ved å trykke på kartet eller søke på en adresse
+3.	Systemet plasserer en pin på valgt punkt og henter stedsnavn fra MET Frost
+4.	Brukeren bekrefter valget ved å trykke «Last inn data for [stedsnavn]»
+5.	Systemet henter klimadata for det valgte stedet i bakgrunnen og åpner opp snarveier til de andre skjermene (klimastatistikk, 
+
+Use case 1: Se tiltak for hagen mot styrtregn
+1.	Brukeren åpner tiltaksskjermen 
+2.	Systemet leser inn de forhåndsdefinerte tiltakene fra appens lokale data
+3.	Systemet viser tiltakene som en liste av kort med bilde og tittel
+4.	Brukeren trykker på et tiltakskort
+5.	Systemet viser en detaljskjerm med beskrivelse og fremgangsmåte for det valgte tiltaket
+
+Use case 2: Se klimastatistikk for valgt sted
+1.	Brukeren velger lokasjon (se Use case 0)
+2.	Systemet henter klimadata fra MET Frost for det valgte stedet: normal sommernedbør for to perioder, antall timer styrtregn per år og total årsnedbør de siste årene
+3.	Systemet beregner trender og regresjonslinjer for nedbør og styrtregn
+4.	Brukeren navigerer til klimastatistikkskjermen, og systemet viser klimastatistikk for valgt lokasjon
+5.	Brukeren kan bytte mellom linje- og søylediagram og bla mellom grafene for sommernedbør, styrtregn og årsnedbør
+
+Use case 3: Se anbefalte planter for lokalt klima
+1.	Brukeren velger lokasjon (se Use case 0)
+2.	Systemet henter normaler for sommernedbør for periodene 1961–1990 og 1991–2020 fra MET Frost
+3.	Systemet sammenligner periodene og klassifiserer klimaet på stedet som tørrere, våtere eller stabilt
+4.	Systemet velger ut planter som passer til den beregnede klimatrenden
+5.	Brukeren navigerer til planteskjermen, og systemet viser stedsnavn, klimatrend og en liste med anbefalte planter
+6.	Brukeren kan utvide et plantekort for å se mer informasjon om en plante
+

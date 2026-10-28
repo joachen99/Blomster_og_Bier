@@ -1,0 +1,251 @@
+<!-- res/values-nb/strings.xml -->
+
+<resources>
+    <!-- appens navn -->
+    <string name="app_name">Blomster &amp; Bier</string>
+
+    <!-- Tiltaksskjermer -->
+    <string name="action_photo">Illustrasjonsbilde av styrtregntiltaket %1$s</string>
+    <string name="bee_photo">Illustrasjonsbilde av bietiltaket %1$s</string>
+    <string name= "action_click_pictureCard">For å lære mer om %1$s</string>
+    <string name= "button_navigate_up"> Til forrige skjerm</string>
+    <string name= "heading_description">Beskrivelse av tiltak:</string>
+    <string name= "heading_procedure">Fremgangsmåte:</string>
+    <string name= "heading_torrential">Tiltak mot styrtregn</string>
+    <string name= "heading_bees">Tiltak for bier</string>
+    <string name= "actionsScreen_description">På grunn av klimaendringene vil det sannsynligvis bli mer av store skybrudd. Derfor må vi forberede oss på å håndtere store vannmengder. Her er en rekke tiltak du kan gjøre i hagen din for å demme opp for styrtregn. Trykk på bildene for mer informasjon.</string>
+    <string name= "beeScreen_description">Bier er viktige pollinatorer for hagen din. Her er noen tiltak du kan gjøre for å hjelpe biene. Trykk på bildene for mer informasjon.</string>
+
+    <!-- HamburgerMeny -->
+    <string name= "hamburgermenu_items">For å navigere til %1$s</string>
+
+    <string name="destination_map">kart</string>
+    <string name="destination_climate_statistics">klimastatistikk</string>
+    <string name="destination_recommended_plants">Planter</string>
+    <string name="destination_bees">Bier</string>
+    <string name="destination_actions">Styrtregn</string>
+    <string name="destination_about">Om appen</string>
+    <string name="destination_settings">Innstillinger</string>
+    <string name="destination_close_hamburgermenu">lukk hamburgermeny</string>
+
+    <!-- For MapScreen -->
+    <string name="change_location"> endre lokasjon </string>
+    <string name="map_search_placeholder">Søk etter adresse...</string>
+    <string name="map_search_clear">Tøm søk</string>
+    <string name="map_instruction_no_selection">Trykk i kartet eller søk på adresse</string>
+    <string name="map_instruction_pin_placed">Last inn data for å gå videre</string>
+    <string name="map_loading">Laster...</string>
+    <string name="map_location_selected">Du har nå valgt:</string>
+    <string name="map_pin_placed_description">Trykk på knappen for å laste inn klimadata og anbefalinger for dette området.</string>
+    <string name="map_load_data_button">Last inn data for %1$s</string>
+    <string name="map_change_position">Velg en annen posisjon</string>
+    <string name="map_navigate_description">Du kan nå navigere videre for å få anbefalinger om: </string>
+    <string name="map_button_climate">Klima</string>
+    <string name="map_button_plants">Planter</string>
+    <string name="map_button_bees">Bier</string>
+    <string name="map_button_actions">Styrtregn</string>
+    <string name="map_zoom_in">Zoom inn</string>
+    <string name="map_zoom_out">Zoom ut</string>
+    <!-- Brukersynlig feilmelding fra MapViewModel – kan ikke kobles inn uten refaktor til AndroidViewModel -->
+    <string name="map_error_location">Kunne ikke finne sted. Sjekk om du har internett</string>
+
+    <!-- For AppNavHost -->
+    <string name="no_location_message">Du har ikke valgt sted enda!\nÅpne kart og velg sted</string>
+    <string name="no_location_go_to_map">Kart</string>
+
+    <!-- For PlantScreen -->
+    <string name="plant_screen_title">Anbefalte planter for %1$s</string>
+    <string name="plant_edit_location">Endre lokasjon</string>
+    <string name="plant_climate_basis">Anbefalingene er basert på klimatrender for ditt område:</string>
+    <string name="plant_loading">Laster planter...</string>
+    <string name="plant_no_results">Ingen planter funnet for dette området.</string>
+    <string name="plant_hardiness_zone">Herdighetssone: %1$s</string>
+    <string name="plant_tips">Tips: %1$s</string>
+    <string name="plant_bloom_months">Blomstrer: %1$s</string>
+    <string name="plant_watering">Vanning: %1$s</string>
+    <string name="plant_watering_low">Lav</string>
+    <string name="plant_watering_medium">Middels</string>
+    <string name="plant_watering_high">Høy</string>
+    <string name="plant_bee_friendly_yes">Bievennlig: Ja</string>
+    <string name="plant_bee_friendly_no">Bievennlig: Nei</string>
+    <!-- Månedsnavn – brukes av skjermleser via PlantEntryCard -->
+    <string name="month_january">januar</string>
+    <string name="month_february">februar</string>
+    <string name="month_march">mars</string>
+    <string name="month_april">april</string>
+    <string name="month_may">mai</string>
+    <string name="month_june">juni</string>
+    <string name="month_july">juli</string>
+    <string name="month_august">august</string>
+    <string name="month_september">september</string>
+    <string name="month_october">oktober</string>
+    <string name="month_november">november</string>
+    <string name="month_december">desember</string>
+    <!-- Feilmelding fra PlantViewModelV2 – krever AndroidViewModel for tilkobling -->
+    <string name="plant_error_load">Kunne ikke hente planter</string>
+
+    <!-- For ClimateScreen -->
+    <string name="close_box"> Lukk info-boks</string>
+    <string name="graph_info">"Info om grafen"</string>
+    <string name="torrential_rain_hours">"Styrtregntimer"</string>
+    <string name="torrential_rain_in_hours">"Styrtregn i timer"</string>
+    <string name="hours">"timer"</string>
+    <string name="summer_rain">"Sommernedbør"</string>
+    <string name="millimeters">"mm"</string>
+    <string name="stable">"→ stabilt"</string>
+    <string name="increasing">"↑ Økende"</string>
+    <string name="rising">"↑ Stigende"</string>
+    <string name="descending">"↓ Synkende"</string>
+    <string name="climate_heading">"KLIMATRENDER"</string>
+    <string name="no_change_rain">"→ Uendret styrtregn"</string>
+    <string name="more_rain">"↑ Mer styrtregn"</string>
+    <string name="stable_summers">"→ Stabile somre"</string>
+    <string name="wetter_summers">"↑ Våtere somre"</string>
+    <string name="dryer_summers">"↓ Tørrere somre"</string>
+    <string name="trend">"Trend"</string>
+    <string name="rain">"Nedbør"</string>
+    <string name="line_graph">"Linjediagram med trendlinje som viser timer med styrtregn per år. %1$s"</string>
+    <string name="page_indicator_description">%1$d av %2$d</string>
+    <string name="summer_precip_period">Snitt 1991–2020</string>
+    <string name="heavy_rain_year">Siste år: %1$d</string>
+
+    <string name="yearly_precipitation">"Årsnedbør"</string>
+    <string name="statistics_for_location">Statistikk for %1$s</string>
+    <string name="loading_climate_data">\nVær tålmodig!\n Dette kan ta opptil ett minutt</string>
+    <string name="climate_data_error">Klarte ikke å hente klimadata.\nPrøv igjen senere eller velg et annet sted i kartet.</string>
+    <string name="key_figures">NØKKELTALL</string>
+    <string name="statistics">STATISTIKK</string>
+    <string name="lines">Linjer</string>
+    <string name="bars">Søyler</string>
+    <string name="previous">Forrige</string>
+    <string name="next">Neste</string>
+    <string name="chart_tooltip_text">Grafen viser historiske nedbørsdata basert på målinger fra Meteorologisk institutt, og illustrerer klimautviklingen over tid på dette stedet.</string>
+    <string name="summer_rain_in_mm">Sommerregn i mm</string>
+    <string name="summer_precipitation_bar_description">Søylediagram som viser sommernedbør: %1$d millimeter i perioden 1961-1990, %2$d millimeter i perioden 1991-2020.</string>
+    <string name="summer_precipitation_line_description">Linjediagram som viser sommernedbør: %1$d millimeter i perioden 1961-1990, %2$d millimeter i perioden 1991-2020.</string>
+    <string name="torrential_bar_description">Søylediagram som viser timer med styrtregn per år. %1$s.</string>
+    <string name="yearly_precipitation_range">Årlig nedbør %1$s - %2$s</string>
+    <string name="period_1961_1990">1961-1990</string>
+    <string name="period_1991_2020">1991-2020</string>
+    <string name="torrential_line_description">Linjediagram med trendlinje som viser timer med styrtregn per år. %1$s.</string>
+
+    <!-- Tekster for favoritt-knapp planteskjerm -->
+    <string name="favorite_add">for å legge til i favoritter</string>
+    <string name="favorite_remove">for å fjerne fra favoritter</string>
+
+    <!-- For expand/collapse-ikon planteskjerm-->
+    <string name="expand_open"> for å åpne og lese mer om %1$s</string>
+    <string name="expand_close">for å lukke informasjonskortet</string>
+
+    <!-- For meny-ikoner bottomNavBar-->
+    <string name="navbar_element_open"> for å navigere til %1$s</string>
+
+    <!-- For Components -->
+    <string name="bee_loader_description">Laster...</string>
+    <string name="menu">Meny</string>
+    <string name="close_menu">Lukk meny</string>
+    <string name="menu_choose_location">Velg sted</string>
+    <string name="menu_your_climate">Ditt klima</string>
+    <string name="app_icon_description">Appikon</string>
+
+    <!-- For Innstillinger -->
+    <string name="delete_cache"> for å frigjøre minne</string>
+    <!-- For SettingsScreen -->
+    <string name="settings_title">Innstillinger</string>
+    <string name="language_title">Språk</string>
+    <string name="language_norwegian">Norsk</string>
+    <string name="language_english">English</string>
+    <string name="font_size_title">Skriftstørrelse</string>
+    <string name="font_small_no">Liten</string>
+    <string name="font_medium_no">Medium</string>
+    <string name="font_large_no">Stor</string>
+    <string name="font_small_en">Small</string>
+    <string name="font_default_en">Default</string>
+    <string name="font_large_en">Large</string>
+    <string name="preview_font_text">Eksempeltekst i valgt skriftstørrelse</string>
+    <string name="clear_cache">Frigjør minne</string>
+    <string name="cache_cleared_successfully">Cache ble tømt.</string>
+    <string name="cache_clear_failed">Kunne ikke tømme all cache.</string>
+
+    <!-- Bekreftelsesdialog for å bytte sted -->
+    <string name="change_location_dialog_title">Bytt sted?</string>
+    <string name="change_location_dialog_text">Vil du bytte til et annet sted?</string>
+    <string name="change_location_dialog_confirm">Ja</string>
+    <string name="change_location_dialog_dismiss">Avbryt</string>
+
+    <!-- For PlantDatabase -->
+    <string name="plant_lavendel_name">Lavendel</string>
+    <string name="plant_lavendel_latin_name">Lavandula angustifolia</string>
+    <string name="plant_lavendel_description">Klassisk hageplante med duftende lilla blomsterstander. Trives i varm, solrik og godt drenert jord. En av de viktigste plantene for bier og humler.</string>
+    <string name="plant_lavendel_soil_type">Godt drenert, gjerne kalkholdig</string>
+    <string name="plant_lavendel_tips">Klipp tilbake etter blomstring for å holde planten kompakt. Unngå vannlogging – det er den vanligste årsaken til at lavendel dør i norske hager.</string>
+
+    <string name="plant_kattemynte_name">Kattemynte</string>
+    <string name="plant_kattemynte_latin_name">Nepeta x faassenii</string>
+    <string name="plant_kattemynte_description">Lettstelt staude med blågrå blader og rikelig med blålilla blomster. En av de mest pollinatorvennlige plantene du kan ha i hagen. Tåler tørke og varme godt.</string>
+    <string name="plant_kattemynte_soil_type">Godt drenert, alle typer</string>
+    <string name="plant_kattemynte_tips">Klipp ned etter første blomstring i juli – da blomstrer den gjerne igjen i august og september.</string>
+
+    <string name="plant_sverdlilje_name">Sverdlilje</string>
+    <string name="plant_sverdlilje_latin_name">Iris sibirica</string>
+    <string name="plant_sverdlilje_description">Elegant staude med slanke blader og vakre blålilla blomster. Trives i fuktig jord og langs vannkanter. Besøkes av humler og bier.</string>
+    <string name="plant_sverdlilje_soil_type">Fuktig til normal</string>
+    <string name="plant_sverdlilje_tips">Del opp store tuster hvert 3–4 år for å opprettholde god blomstring.</string>
+
+    <string name="plant_mynte_name">Mynte</string>
+    <string name="plant_mynte_latin_name">Mentha spicata</string>
+    <string name="plant_mynte_description">Aromatisk urt som sprer seg kraftig og blomstrer med små lilla blomsterkroner. Svært populær hos humler og bier. Tåler fuktig jord godt.</string>
+    <string name="plant_mynte_soil_type">Fuktig til normal, næringsrik</string>
+    <string name="plant_mynte_tips">Plant i en nedgravd bøtte uten bunn for å begrense spredningen. Blomstrer best når du ikke høster for hardt.</string>
+
+    <string name="plant_daglilje_name">Daglilje</string>
+    <string name="plant_daglilje_latin_name">Hemerocallis</string>
+    <string name="plant_daglilje_description">Robust og svært lettstelt staude med store blomster i gult, oransje og rødt. Tåler nesten alt – tørke, oversvømmelse og forsømmelse. Besøkes av humler.</string>
+    <string name="plant_daglilje_soil_type">Alle typer</string>
+    <string name="plant_daglilje_tips">En av de mest robuste staudene du kan ha i hagen. Blomstene varer bare én dag, men planten produserer mange knopper.</string>
+
+    <string name="plant_blasvingel_name">Blåsvingel</string>
+    <string name="plant_blasvingel_latin_name">Festuca glauca</string>
+    <string name="plant_blasvingel_description">Kompakt prydgress med stålblå blader. Dype røtter binder jord og hjelper mot erosjon ved kraftig nedbør. Tåler både tørke og kortvarig oversvømmelse.</string>
+    <string name="plant_blasvingel_soil_type">Godt drenert til normal</string>
+    <string name="plant_blasvingel_tips">Planter med dype røtter er viktige i skråninger og langs kanter der kraftig regn kan erodere jord.</string>
+
+    <string name="plant_oregano_name">Oregano</string>
+    <string name="plant_oregano_latin_name">Origanum vulgare</string>
+    <string name="plant_oregano_description">Hardfør urt med små rosa-lilla blomster som er ekstremt populære hos bier og humler. Blomstrer sent på sesongen og er en av de beste bieplantene du kan ha.</string>
+    <string name="plant_oregano_soil_type">Godt drenert, varm</string>
+    <string name="plant_oregano_tips">La noen planter stå og blomstre uten å høste – det gir mat til bier sent i sesongen når lite annet blomstrer.</string>
+
+    <string name="plant_ryllik_name">Ryllik</string>
+    <string name="plant_ryllik_latin_name">Achillea millefolium</string>
+    <string name="plant_ryllik_description">Hardfør og lettstelt staude med flate blomsterskjermer i hvitt, rosa eller gult. Tåler vanlige norske sommere godt og er svært populær hos bier og sommerfugler.</string>
+    <string name="plant_ryllik_soil_type">Normal til godt drenert</string>
+    <string name="plant_ryllik_tips">Ryllik tåler både tørre og normale perioder godt, og passer fint i naturpregede bed og blomsterenger.</string>
+
+    <string name="plant_akeleie_name">Akeleie</string>
+    <string name="plant_akeleie_latin_name">Aquilegia vulgaris</string>
+    <string name="plant_akeleie_description">Elegant staude med karakteristiske blomster i lilla, blått, rosa eller hvitt. En viktig tidlig matkilde for humler og bier i hagen.</string>
+    <string name="plant_akeleie_soil_type">Normal, gjerne moldrik</string>
+    <string name="plant_akeleie_tips">Akeleie frøsår seg lett og dukker ofte opp nye steder i hagen fra år til år.</string>
+
+    <string name="plant_stjerneskjerm_name">Stjerneskjerm</string>
+    <string name="plant_stjerneskjerm_latin_name">Astrantia major</string>
+    <string name="plant_stjerneskjerm_description">Vakre stjerneformede blomster i hvitt eller rosa som blomstrer lenge gjennom sommeren. Trives godt i vanlig hagejord og tiltrekker bier og andre pollinatorer.</string>
+    <string name="plant_stjerneskjerm_soil_type">Normal til lett fuktig</string>
+    <string name="plant_stjerneskjerm_tips">Fjern visne blomster underveis for å forlenge blomstringen utover sensommeren.</string>
+
+    <!-- For AboutAppScreen -->
+    <string name="about_app_intro">Denne appen er laget for deg som er interessert i planter, bier og hvordan klimaet påvirker hagen din.</string>
+    <string name="how_it_works_title">Slik fungerer appen</string>
+    <string name="how_it_works_text">Trykk på et sted på kartet for å velge plasseringen til hagen din. Trykk så på &quot;Last inn data for ...&quot;. Appen henter så inn klimadata og gir deg skreddersydde anbefalinger for området du valgte.</string>
+    <string name="what_you_get_title">Hva du får</string>
+    <string name="bullet_plants">• Du får forslag til planter som trives i klimaet der du bor, inkludert bie-vennlige alternativer som er nyttige for pollinerende insekter.</string>
+    <string name="bullet_actions">• Appen gir også råd om tiltak du kan gjøre for å beskytte hagen mot styrtregn, og tips til hvordan du kan tilrettelegge hagen for bier.</string>
+    <string name="bullet_climate">• I tillegg kan du se klimastatistikk for det valgte området, slik at du får en bedre forståelse av klima der hagen er plassert.</string>
+    <string name="version">Versjon V.2</string>
+    <string name="developers_title">Utviklere</string>
+    <string name="developers_names">Evina Sobrevega Tomter, Joachim Engeli, Håkon Åsgard Eidem, Marianne Gullhaugen, Sondre Nilsen Strand &amp; Synnøve Gudmundsen</string>
+    <string name="thanks_title">Takk til våre veiledere</string>
+    <string name="supervisors_names">Dmitrii Soltaganov &amp; Sigurd Nordbye</string>
+
+</resources>
